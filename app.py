@@ -9,7 +9,7 @@ st.set_page_config(
 
 # ---------- QUICK EDIT SECTION ----------
 NAME = "Kaylan Chase"
-TAGLINE = "Informatics student • Business Student • Building projects in software, data, and tech"
+TAGLINE = "Informatics student • Business Student • Building projects in software, data, tech and trying to bridge the gap between technology and business"
 LOCATION = "New York, NY"
 EMAIL = "chasekaylan@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/kaylan-chase-3007022a5"
