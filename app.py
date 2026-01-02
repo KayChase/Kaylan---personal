@@ -9,24 +9,24 @@ st.set_page_config(
 
 # ---------- QUICK EDIT SECTION ----------
 NAME = "Kaylan Chase"
-TAGLINE = "Informatics student • Business minor • Building projects in software, data, and tech"
+TAGLINE = "Informatics student • Business Student • Building projects in software, data, and tech"
 LOCATION = "New York, NY"
 EMAIL = "chasekaylan@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/kaylan-chase-3007022a5"
-GITHUB = "https://github.com/your-username"  # change this
+GITHUB = "https://github.com/KayChase"  
 
-PROJECTS = [
+Some simple projects = [
     {
         "title": "Countries Visited Manager",
         "desc": "Object-oriented tracker to log countries, notes, and trip details.",
         "stack": ["Python", "OOP"],
-        "links": {"GitHub": "https://github.com/your-username/countries-visited"},
+        "links": {"GitHub": "https://github.com/KayChase/Countries-Visited/blob/main/countriesvisited.py"},
     },
     {
-        "title": "Library Book Checkout System",
-        "desc": "Checkout + CSV persistence + overdue tracking with clean menus.",
-        "stack": ["Python", "CSV"],
-        "links": {"GitHub": "https://github.com/your-username/library-system"},
+        "title": "Stock Market orders",
+        "desc": "Place and observe stock market orders",
+        "stack": ["Python", "API's"],
+        "links": {"GitHub": "https://github.com/KayChase/Stockmarketorders/blob/main/stockmarketorders.py"},
     },
     {
         "title": "Weather API App",
@@ -46,6 +46,15 @@ EXPERIENCE = [
         ],
     },
     {
+        "role": "Fellow / Internship Experience",
+        "company": "NYSTEC IgniteU (if applicable)",
+        "bullets": [
+            "Worked on tech-focused projects and professional development.",
+            "Strengthened communication, teamwork, and problem-solving.",
+        ],
+    },
+
+     {
         "role": "Fellow / Internship Experience",
         "company": "NYSTEC IgniteU (if applicable)",
         "bullets": [
