@@ -15,7 +15,8 @@ EMAIL = "chasekaylan@gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/kaylan-chase-3007022a5"
 GITHUB = "https://github.com/KayChase"  
 
-Some simple projects = [
+PROJECTS = [
+
     {
         "title": "Countries Visited Manager",
         "desc": "Object-oriented tracker to log countries, notes, and trip details.",
