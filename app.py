@@ -30,10 +30,10 @@ PROJECTS = [
         "links": {"GitHub": "https://github.com/KayChase/Stockmarketorders/blob/main/stockmarketorders.py"},
     },
     {
-        "title": "Weather API App",
-        "desc": "Pulls live weather data from an API and displays results in a simple UI.",
-        "stack": ["Python", "APIs", "JSON"],
-        "links": {"GitHub": "https://github.com/your-username/weather-api"},
+        "title": "All time NBA players sorter",
+        "desc": "Demonstrates: Linear Search, Selection Sort, Insert, Update, Delete, and user interaction.",
+        "stack": ["Python"],
+        "links": {"GitHub": "https://github.com/KayChase/All-time-NBA-players/blob/main/Alltimenba.py"},
     },
 ]
 
@@ -48,7 +48,7 @@ EXPERIENCE = [
     },
     {
         "role": "Fellow / Internship Experience",
-        "company": "NYSTEC IgniteU (if applicable)",
+        "company": "NYSTEC IgniteU ",
         "bullets": [
             "Worked on tech-focused projects and professional development.",
             "Strengthened communication, teamwork, and problem-solving.",
@@ -56,11 +56,11 @@ EXPERIENCE = [
     },
 
      {
-        "role": "Fellow / Internship Experience",
-        "company": "NYSTEC IgniteU (if applicable)",
+        "role": "UAlbany Makerspace intern",
+        "company": " UAlbany)",
         "bullets": [
-            "Worked on tech-focused projects and professional development.",
-            "Strengthened communication, teamwork, and problem-solving.",
+            "Provided support for 10+ users weekly, resolving 95% of issues on first contact.",
+            "Utilized laser cutting, 3D printing, and robotics technologies",
         ],
     },
 ]
